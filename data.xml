@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software>
+   <item 
+      id="888"
+      name="MythGame"
+      release_date="8/18/2008"
+      version="8.8"
+      filesize="8.88 MB"
+      category="linux, Windows"
+      links="http://www.mythtv.org/"
+      description="sci-fi game"
+   > have not tried it</item>
+
+   <item
+      id="444"
+      name="Notepad++"
+      release_date="4/4/2014"
+      version="4.44"
+      filesize="444 KB"
+      category="Windows"
+      links="http://notepad-plus.sourceforge.net/"
+      description="open source editor"
+   > excellent software</item>
+   
+   <item 
+      id="777"
+      name="CygWin"
+      release_date="1/20/2007"
+      version="1.5.77"
+      filesize="777 KB"
+      category="Windows, Linux"
+      links="http://www.cygwin.com/"
+      description="linux for Windows"
+   > just get linux</item>
+   
+   <item
+      id="111"
+      name="Firefox"
+      release_date="1/17/2011"
+      version="1.1.0.1"
+      filesize="1.0 MB"
+      category="Windows, Linux, OS X"
+      links="http://www.mozilla.com/firefox/"
+      description="web browser"
+   > excellent </item>
+
+   <item 
+      id="333"
+      name="InTuit"
+      release_date="1/20/2008"
+      version="3.3.3"
+      filesize="333 KB"
+      category="Windows"
+      links="http://www.intuit.com/"
+      description="personal accounting"
+   > cannot recommend it</item>
+
+   <item 
+      id="555"
+      name="Putty"
+      release_date="1/20/2010"
+      version="5.5.5"
+      filesize="555 KB"
+      category="Windows, Linux, OS X"
+      links="http://www.putty.org/"
+      description="terminal emulator"
+   > worth every penny</item>
+
+   <item 
+      id="999"
+      name="snailware"
+      release_date="9/9/2009"
+      version="1.9"
+      filesize="99 KB"
+      category="Windows, OS X, Linux"
+      links="http://www.snailware.org/"
+      description="text editor"
+   > buggy</item>
+
+</software>
+

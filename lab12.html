@@ -1,0 +1,38 @@
+
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <style> 
+            span {background-color: lime; margin: 20px; line-height: 1.5em;  padding: 10px;}
+            pre { line-height: 1.3em; }
+            td { padding: 2px 15px 2px 0px; }
+        </style>
+    </head>
+    <title>CS 3500 PHP Lab 12 </title>
+    <body style="margin: 10px;">
+        <div style="width: 70%; padding: 10px;
+            border: solid black 1px; background-color: white;">
+            <table><tr><td>
+                        <em>Name:</em></td><td>Alexander Nguyen</td>
+                    </tr><tr>
+                    <td><em>Course:</em></td><td>CMPS 3500 Programming Languages</td>
+                    </tr><tr>
+                    <td><em>Lab 12:</em></td><td>PHP XML Parser </em> </td>
+        </tr></table>
+
+
+        <form method="post" action="lab12.php">
+            <p>
+            The purpose of this form is to query the description and category fields
+            of data.xml using a regular expression. Enter a regular expression in 
+            Perl format (the regex must be enclosed in slashes); e.g,:
+<pre><tt> /^[a-z][B-G].*$/    </tt></pre>
+            <label>Enter regex:</label> <input type="text" name="regex" id="regex"> 
+            <p>
+            <input type="submit" value="Submit Query">
+            <br>
+
+        </form>
+    </body>
+</html>
+
